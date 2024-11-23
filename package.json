@@ -1,0 +1,11 @@
+{
+    "name": "amazon-price-tracker",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "crawlee": "^3.0.0"
+    },
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
